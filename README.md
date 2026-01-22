@@ -100,11 +100,12 @@ Affichage du parcours détecté sur la console via USART :
 
 ## Atténuation de la DEL
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/6dee2b36-bfd1-4fef-9ad6-73c14a8a77b4" alt="led verte" width="200">
-  <img src="https://github.com/user-attachments/assets/b82e69ee-93f6-48fc-8897-845d03ef9ec3" alt="led ambre" width="200">
-  <img src="https://github.com/user-attachments/assets/93b977c3-30ea-4f9c-a11b-09776d13c269" alt="led rouge" width="200">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dee2b36-bfd1-4fef-9ad6-73c14a8a77b4" alt="led verte" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b82e69ee-93f6-48fc-8897-845d03ef9ec3" alt="led ambre" width="30%" />
+  <img src="https://github.com/user-attachments/assets/93b977c3-30ea-4f9c-a11b-09776d13c269" alt="led rouge" width="30%" />
+</p>
+
 
 
 
