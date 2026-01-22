@@ -3,7 +3,11 @@
 **Auteurs :** Ranya Anis, Noé Julien, Rym Zidi  
 **Date :** 6 decembre 2025  
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/69a628f3-fae0-4f7f-9e06-b5db18dd104e" width="300" style="vertical-align: middle;" alt="IMG_9323" /> <img src="https://github.com/user-attachments/assets/aa074922-08c7-4cc9-a55b-470a02e2d091" width="300" style="vertical-align: middle;" alt="IMG_9326" /> <img src="https://github.com/user-attachments/assets/06ad699d-276e-43e4-b2be-ea9b1182e49a" width="300" style="vertical-align: middle;" alt="IMG_9324" /> </p>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/69a628f3-fae0-4f7f-9e06-b5db18dd104e" width="300" alt="IMG_9323" />
+  <img src="https://github.com/user-attachments/assets/aa074922-08c7-4cc9-a55b-470a02e2d091" width="300" alt="IMG_9326" />
+  <img src="https://github.com/user-attachments/assets/06ad699d-276e-43e4-b2be-ea9b1182e49a" width="300" alt="IMG_9324" />
+</div>
 
 ---
 
