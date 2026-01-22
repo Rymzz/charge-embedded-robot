@@ -28,9 +28,16 @@ Pendant qu’il circule sur la ligne, le robot détecte les symboles (DEL, moteu
 | Interrupteur | Arrêt à 4", exécution d’une séquence de rotations, vérification du retrait du poteau avant de repartir. |
 | Fin de chemin | Clignotement DEL rouge/vert puis DEL verte après appui sur le bouton **Interrupt**, déclenchant l’envoi du rapport final via USART. |
 
-### Exemple de photo du parcours
+###  Photo du parcours
 
-![Parcours du robot](./images/parcours.jpg)  
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/eed8ad4d-7658-4daf-a333-3038293300c8"
+    width="700"
+    alt="IMG_0821"
+  />
+</p>
+
 *Le robot suit la ligne, détecte les symboles et exécute les actions correspondantes.
 
 ---
