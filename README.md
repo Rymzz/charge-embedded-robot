@@ -51,10 +51,10 @@ Robot complet :
 Circuit et composants :  
 ![Circuit et composants](./images/circuit.jpg)
 
-Affichage ou test de la DEL :  
-![DEL et test](./images/del_test.jpg)
-
-*(Remplacez les chemins par vos photos réelles)*
+Affichage du parcour detecté sur la console, via USART:  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb00b78a-527b-4ef2-ac6e-87df8b298d1b" width="546" height="143" alt="messageTransmis" />
+</p>
 
 ---
 
