@@ -149,8 +149,9 @@ Le projet est structuré en modules orientés objet, facilitant maintenance et r
 
 ## Conclusion / Conclusion
 
-Le projet CHARGÉ démontre une intégration complète matériel-logiciel, combinant :  
-Navigation autonome, détection d’obstacles, reconnaissance de symboles, communication série / The CHARGÉ project demonstrates full hardware-software integration, combining autonomous navigation, obstacle detection, symbol recognition, and serial communication.
+**FR :** Le projet CHARGÉ démontre une intégration complète matériel-logiciel, combinant :  
+Navigation autonome, détection d’obstacles, reconnaissance de symboles, communication série  
+**EN :** The CHARGÉ project demonstrates full hardware-software integration, combining autonomous navigation, obstacle detection, symbol recognition, and serial communication.
 
 ---
 
