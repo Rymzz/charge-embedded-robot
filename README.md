@@ -1,4 +1,4 @@
-# CHARGÉ – Robot autonome pour systèmes embarqués <br> CHARGÉ – Autonomous Embedded Robot
+# CHARGÉ – Robot systèmes embarqués <br> CHARGÉ – Embedded Systems Robot
 
 
 **Auteurs / Authors :** Ranya Anis, Noé Julien, Rym Zidi  
