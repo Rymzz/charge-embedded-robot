@@ -1,6 +1,5 @@
 # CHARGÉ – Robot systèmes embarqués <br> CHARGÉ – Embedded Systems Robot
 
-
 **Auteurs / Authors :** Ranya Anis, Noé Julien, Rym Zidi  
 **Date / Date :** 6 décembre 2025 / December 6, 2025
 
@@ -107,6 +106,13 @@ Affichage du parcours détecté sur la console via USART / Path displayed on con
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eb00b78a-527b-4ef2-ac6e-87df8b298d1b" width="550" alt="Message USART" />
 </p>
+
+- **>>>** : Représente le placement et la position de départ du robot  
+- **(O)** : Représente les emplacements où des poteaux ont été détectés
+- **M** : Représente un symbole de type moteur (○)
+- **D** : Représente un symbole de type diode (△)
+- **P** : Représente un symbole de type piezo (□)
+- **I** : Représente un symbole de type interrupteur (_/)
 
 ---
 
