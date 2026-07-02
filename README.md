@@ -24,6 +24,11 @@ The robot follows a black line, detects physical symbols placed along its path, 
 This project brought together real-time embedded programming, hardware control, sensor integration, serial communication, and teamwork under physical constraints.
 
 <p align="center">
+  <img src="docs/images/robotCharge.png" width="420"><br>
+  <sub>The CHARGÉ robot prototype</sub>
+</p>
+
+<p align="center">
   <img src="docs/images/afficheCharge.png" width="850">
 </p>
 
